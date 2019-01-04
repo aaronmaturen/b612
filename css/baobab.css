@@ -1,5 +1,7 @@
-body {
-  background-image: url('/img/baobab.jpg');
-  background-repeat: no-repeat;
-  background-position: left center;
+html { 
+  background: url(img/baobab.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
